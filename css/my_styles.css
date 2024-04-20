@@ -1,0 +1,62 @@
+.header{
+    text-align: center;
+    color:whitesmoke;
+    background-color:darkslategray;
+    padding: 10px;
+}
+
+nav{
+    background-color:rgb(148, 172, 172);
+    height: 50px;
+    line-height:50px;
+    padding-left: 50px;
+    color: whitesmoke;
+    
+}
+
+nav a{
+    color: whitesmoke;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-decoration: none;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+h1{
+    margin-bottom: 5px;
+}
+
+h2{
+    margin-bottom: 0px;
+    margin-left: ;
+
+    background-color: rgb(148, 172, 172);
+    color: whitesmoke;
+    padding-left: 50px;
+
+}
+
+h3{
+    font-weight: bold;
+    margin-left: 30px;
+}
+
+p{
+    margin-left: 30px;
+    margin-right: 30px;
+}
+
+i{
+    margin-left: 30px;
+}
+
+li{
+    margin-left: 75px;
+    margin-right: 75px;
+}
+
+.resume{
+    font-size: 24px;
+}
+
+.header
